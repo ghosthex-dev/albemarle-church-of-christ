@@ -608,22 +608,25 @@
               </div>
             </div>
 
-            <!-- Map View Placeholder Graphic -->
+            <!-- Interactive Google Maps View -->
             <div class="lg:col-span-6">
-              <div class="rounded-2xl overflow-hidden border border-slate-200 shadow aspect-[16/10] bg-slate-100 relative group">
-                <!-- Map Graphic -->
-                <div class="absolute inset-0 bg-[#e5e3df] flex items-center justify-center p-6 text-center">
-                  <div class="space-y-3">
-                    <div class="w-16 h-16 rounded-full bg-red-600 text-white flex items-center justify-center mx-auto shadow-lg animate-bounce">
-                      <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
-                    </div>
-                    <div class="font-bold text-slate-800 text-lg">24790 South Business 52</div>
-                    <p class="text-xs text-slate-600 max-w-xs mx-auto">Intersection of Highway 52 South & Ross Drive, Albemarle, NC</p>
-                    <a href="https://www.google.com/maps/search/?api=1&query=24790+South+Business+52+Albemarle+NC+28001" target="_blank" rel="noopener noreferrer" class="inline-block mt-2 text-xs font-bold text-blue-700 bg-white px-3 py-1.5 rounded-full shadow-sm hover:underline">
-                      Get Turn-by-Turn Driving Directions →
-                    </a>
-                  </div>
-                </div>
+              <div class="rounded-2xl overflow-hidden border border-slate-200 shadow-md aspect-[16/11] bg-slate-100 relative">
+                <iframe 
+                  id="google-maps-embed"
+                  src="https://maps.google.com/maps?q=Albemarle+Church+of+Christ,+24790+South+Business+52,+Albemarle,+NC+28001&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                  title="Albemarle Church of Christ Google Maps Location"
+                  class="w-full h-full border-0"
+                  loading="lazy"
+                  allowfullscreen
+                  referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+              </div>
+              <div class="mt-2.5 flex items-center justify-between text-xs text-slate-500">
+                <span>📍 24790 South Business 52, Albemarle, NC</span>
+                <a href="https://www.google.com/maps/search/?api=1&query=24790+South+Business+52+Albemarle+NC+28001" target="_blank" rel="noopener noreferrer" class="font-semibold text-brand-900 hover:text-amber-700 hover:underline inline-flex items-center gap-1">
+                  <span>View Larger Map</span>
+                  <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+                </a>
               </div>
             </div>
 
