@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="logoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2942" />
+      <stop offset="100%" stop-color="#1e3a5f" />
+    </linearGradient>
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  
+  <circle cx="120" cy="120" r="114" fill="url(#logoBg)" stroke="url(#goldAccent)" stroke-width="4"/>
+  <circle cx="120" cy="120" r="106" fill="none" stroke="#f1f5f9" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.6"/>
+
+  <!-- Bible Pages -->
+  <path d="M50 145 C80 135, 115 145, 120 155 C125 145, 160 135, 190 145 L190 95 C160 85, 125 95, 120 105 C115 95, 80 85, 50 95 Z" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+  <path d="M120 105 L120 155" stroke="#94a3b8" stroke-width="2"/>
+  
+  <!-- Subtle text lines in open Bible -->
+  <line x1="65" y1="108" x2="105" y2="114" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="65" y1="120" x2="105" y2="126" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="65" y1="132" x2="105" y2="138" stroke="#94a3b8" stroke-width="2"/>
+
+  <line x1="135" y1="114" x2="175" y2="108" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="135" y1="126" x2="175" y2="120" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="135" y1="138" x2="175" y2="132" stroke="#94a3b8" stroke-width="2"/>
+
+  <!-- Cross rising from Bible -->
+  <rect x="114" y="45" width="12" height="55" fill="url(#goldAccent)" rx="2"/>
+  <rect x="96" y="60" width="48" height="11" fill="url(#goldAccent)" rx="2"/>
+  
+  <!-- Radiant Rays -->
+  <circle cx="120" cy="70" r="32" fill="none" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="2 6" opacity="0.8"/>
+
+  <!-- Est Date -->
+  <text x="120" y="195" font-family="Georgia, serif" font-size="12" font-weight="bold" fill="#fef08a" text-anchor="middle" letter-spacing="3">EST. 1949</text>
+</svg>

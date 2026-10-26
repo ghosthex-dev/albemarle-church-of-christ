@@ -1,0 +1,158 @@
+/* Modern, Accessible Stylesheet for Albemarle Church of Christ */
+:root {
+  --primary: #0f2942;
+  --primary-light: #1e3a5f;
+  --primary-dark: #091a2b;
+  --accent: #d97706;
+  --accent-light: #f59e0b;
+  --accent-hover: #b45309;
+  --text-main: #0f172a;
+  --text-muted: #475569;
+  --bg-main: #ffffff;
+  --bg-subtle: #f8fafc;
+  --bg-card: #ffffff;
+  --border-color: #e2e8f0;
+  --font-scale: 1rem;
+}
+
+html {
+  font-size: var(--font-scale);
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--text-main);
+  background-color: var(--bg-main);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Accessibility: Font Size Modifiers */
+html.font-scale-sm {
+  --font-scale: 0.925rem;
+}
+html.font-scale-md {
+  --font-scale: 1rem;
+}
+html.font-scale-lg {
+  --font-scale: 1.15rem;
+}
+html.font-scale-xl {
+  --font-scale: 1.3rem;
+}
+
+/* Accessibility: High Contrast Mode */
+html.high-contrast {
+  --primary: #000000;
+  --primary-light: #111827;
+  --primary-dark: #000000;
+  --accent: #b45309;
+  --accent-light: #d97706;
+  --text-main: #000000;
+  --text-muted: #1f2937;
+  --border-color: #000000;
+  --bg-subtle: #f1f5f9;
+}
+
+html.high-contrast .border,
+html.high-contrast .border-slate-200,
+html.high-contrast .border-slate-100 {
+  border-color: #000000 !important;
+  border-width: 2px !important;
+}
+
+html.high-contrast a:focus,
+html.high-contrast button:focus {
+  outline: 3px solid #000000 !important;
+  outline-offset: 3px !important;
+}
+
+/* Skip link for screen readers */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 10px;
+  background: #0f2942;
+  color: #ffffff;
+  padding: 8px 16px;
+  z-index: 1000;
+  transition: top 0.2s ease;
+  font-weight: 600;
+  border-radius: 4px;
+}
+.skip-link:focus {
+  top: 10px;
+}
+
+/* Enhanced Focus States for Accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #d97706 !important;
+  outline-offset: 2px !important;
+}
+
+/* Serifs for titles */
+.font-display {
+  font-family: 'Cinzel', 'Playfair Display', Georgia, serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Audio Player Range Slider */
+input[type="range"] {
+  accent-color: #d97706;
+}
+
+/* Print Stylesheet for Elderly and Bulletin Distribution */
+@media print {
+  header,
+  footer,
+  #sermons-audio-player,
+  .no-print,
+  #contact-form,
+  button,
+  .mobile-menu-drawer {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 12pt !important;
+    line-height: 1.4 !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .card, .shadow-lg, .shadow-md {
+    box-shadow: none !important;
+    border: 1px solid #999999 !important;
+    break-inside: avoid;
+    margin-bottom: 1.5rem !important;
+  }
+
+  a {
+    text-decoration: underline !important;
+    color: #000000 !important;
+  }
+}

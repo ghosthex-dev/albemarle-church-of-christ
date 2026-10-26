@@ -1,0 +1,303 @@
+{
+  "church": {
+    "name": "Albemarle Church of Christ",
+    "alternateName": "Church of Christ at Albemarle",
+    "slogan": "New Testament Christianity \u2014 Pure and Simple",
+    "description": "A welcoming, Bible-centered congregation of Christians striving to follow the New Testament pattern in spirit and in truth.",
+    "established": 1949,
+    "contact": {
+      "physicalAddress": {
+        "street": "24790 South Business 52",
+        "crossStreet": "Highway 52 South at Ross Drive",
+        "city": "Albemarle",
+        "state": "NC",
+        "zip": "28001",
+        "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=24790+South+Business+52+Albemarle+NC+28001"
+      },
+      "mailingAddress": {
+        "poBox": "PO Box 245",
+        "city": "Albemarle",
+        "state": "NC",
+        "zip": "28001"
+      },
+      "phone": "(704) 982-9814",
+      "fax": "(704) 982-9814",
+      "email": "info@albemarlechurchofchrist.org"
+    },
+    "youtube": {
+      "channelUrl": "https://www.youtube.com/@AlbemarlechurchofChrist/",
+      "channelId": "UCGJ4ACTkITS7JLZr11_A0CQ",
+      "liveStreamEmbedUrl": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCGJ4ACTkITS7JLZr11_A0CQ",
+      "recentBroadcasts": [
+        {
+          "id": "suVe2mlBxic",
+          "title": "Recent Worship Broadcast",
+          "type": "Worship"
+        },
+        {
+          "id": "FnbQ-iqnKwM",
+          "title": "Recent Bible Study Broadcast",
+          "type": "Bible Study"
+        }
+      ]
+    }
+  },
+  "leadership": [
+    {
+      "name": "Curtis Parker",
+      "role": "Shepherd / Preacher / Elder",
+      "phone": "(704) 795-8716",
+      "bio": "Serving as minister and shepherd at Albemarle Church of Christ, dedicated to expository preaching and pastoral care."
+    },
+    {
+      "name": "Tim Pinkston",
+      "role": "Shepherd / Elder",
+      "phone": "(980) 621-9505",
+      "bio": "Serving as an elder, leading the congregation in spiritual growth, biblical teaching, and community care."
+    },
+    {
+      "name": "Chris Harward",
+      "role": "Shepherd / Elder",
+      "phone": "(704) 322-0701",
+      "bio": "Serving as an elder, committed to shepherding the flock and upholding the pure teachings of Christ."
+    }
+  ],
+  "services": [
+    {
+      "title": "Sunday Morning Bible Class",
+      "day": "Sunday",
+      "time": "10:00 AM",
+      "description": "In-depth, interactive study of God's Word for all ages.",
+      "category": "Sunday"
+    },
+    {
+      "title": "Sunday Morning Worship",
+      "day": "Sunday",
+      "time": "11:00 AM",
+      "description": "Biblical worship including prayer, congregational singing, communion (Lord's Supper), and gospel preaching.",
+      "category": "Sunday"
+    },
+    {
+      "title": "Sunday Evening Worship",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "description": "Evening devotion, praise, and deeper study of the scriptures.",
+      "category": "Sunday"
+    },
+    {
+      "title": "Wednesday Midweek Bible Study",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "description": "Midweek spiritual encouragement, prayer, and chapter-by-chapter Bible exploration.",
+      "category": "Midweek"
+    }
+  ],
+  "beliefs": {
+    "scriptures": [
+      {
+        "reference": "John 4:24",
+        "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth."
+      },
+      {
+        "reference": "Colossians 3:17",
+        "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him."
+      }
+    ],
+    "tenets": [
+      {
+        "title": "God's Eternal Love & Clear Terms",
+        "content": "God has been eternally loving towards all of mankind. He sent His very best into a world that did not want to be saved. God has, also, always been very clear as to the terms and conditions regarding man's approach to Him. Beginning with our original ancestors, Adam and Eve, God has been absolutely specific in letting mankind know what is pleasing and acceptable to Him. John 4:24 tells us that God is seeking true worshipers and these worshipers MUST worship Him in Spirit and Truth. It is so important to know what God requires of all of mankind."
+      },
+      {
+        "title": "'Christians Only' \u2014 Undenominational Faith",
+        "content": "Those who are truly seeking to please God and make heaven their eternal home are completely satisfied with being 'Christians only.' The name refers to a desire to be a follower of Christ or to be 'Christ-like.' This can only be achieved when one desires to rid himself of man-made doctrines and titles and to be humbly called 'Christ-one' or Christian. The name 'church of Christ' is not a proper sectarian name as some misunderstand it to be. The name simply means the body of Christ. In New Testament times, the church was called by names such as: the church of the firstborn, the church of God, the church of the Living God, The Way, etc. But, upon closer examination, all of the names are descriptive of Jesus Christ and the work done for all of mankind."
+      },
+      {
+        "title": "Obedience to Apostolic Doctrine",
+        "content": "If you are seeking to become 'Christians Only' and be added to the body of Christ based on obedience of the apostle's doctrine, then look no further. The church of Christ consists of dedicated members who seek to further the borders of Christ's kingdom, the church of Christ, and to obey humbly all of the mandates that God requires His servants to obey in order to please Him. The worship of the church of Christ is simple and God-centered. We seek to do all things by the authority of Christ (Col. 3:17). Please come and join us or sit down to study with us in order to discover 'What thus says the Lord' in an attempt to develop an intimate relationship with the Creator of the Universe and the Giver of all Good Gifts!"
+      }
+    ]
+  },
+  "history": {
+    "summary": "From humble gatherings in 1949 at the Albemarle Hotel dining room to our permanent home constructed in 1961 on Highway 52 South, the Albemarle Church of Christ has faithfully served Stanly County for over seven decades.",
+    "timeline": [
+      {
+        "year": "June 1949",
+        "title": "Early Beginnings",
+        "text": "The church of Christ in Albemarle had its beginning when some five or six members began meeting in the dining room of the old Albemarle Hotel. Two of the charter members were J.D. Burton and Odell Hood. For four years the church continued to meet faithfully in the hotel and in the homes of the members."
+      },
+      {
+        "year": "1953",
+        "title": "Kannapolis Fellowship",
+        "text": "During 1953, the Christians in Albemarle drove to Kannapolis to worship with the church there while maintaining their prayerful intention to establish a local work."
+      },
+      {
+        "year": "1954",
+        "title": "Renewal in Downtown Albemarle",
+        "text": "D.L. Taylor and several other dedicated members moved to Albemarle and renewed vigorous efforts to build the local congregation. For a time, the group gathered for worship in a rented room above Riff's store in downtown Albemarle."
+      },
+      {
+        "year": "1956",
+        "title": "First Full-Time Preacher & Salisbury Hwy",
+        "text": "In September 1956, the church hired Roger Hindrix as their first full-time minister. On November 21, 1956, they rented a building across from the P&D Food Market on the Salisbury Highway. Brother Hindrix labored with the church for about a year, with Kannapolis members assisting by driving over on Sunday evenings to help lead services."
+      },
+      {
+        "year": "1958 - 1960",
+        "title": "Growth Under Frank R. Milton",
+        "text": "There were nine members meeting in June 1958 when Frank R. Milton became the local minister. Through fervent evangelism and community Bible study, the congregation grew to 23 members by 1960."
+      },
+      {
+        "year": "August 6, 1961",
+        "title": "Dedication of the Present Building",
+        "text": "During brother Milton's ministry, the present building on Highway 52 South at Ross Drive was constructed at a cost of $35,000. The church met in it for the first time on August 6, 1961. Brother Milton's work with the church continued through August 1963."
+      },
+      {
+        "year": "Present Day",
+        "title": "Continuing the Legacy of Faith",
+        "text": "Since that time, generations of wonderful members have attended, worshiped, and labored with the church at Albemarle. We continue to hold fast to God's Word, and warmly invite you to join our spiritual family!"
+      }
+    ]
+  },
+  "sermons": [
+    {
+      "title": "Learning not to fret in life",
+      "speaker": "Curtis Parker",
+      "date": "2024-01-14",
+      "category": "Sermons",
+      "size": "5.7 MB",
+      "duration": "32:15",
+      "description": "A biblical study on overcoming anxiety, placing steadfast trust in God's sovereignty, and finding divine peace."
+    },
+    {
+      "title": "Returning to your first love",
+      "speaker": "Curtis Parker",
+      "date": "2024-01-14",
+      "category": "Sermons",
+      "size": "8.68 MB",
+      "duration": "38:40",
+      "description": "Reflecting on Revelation 2:4 and renewing our zeal, devotion, and heartfelt commitment to Jesus Christ."
+    },
+    {
+      "title": "Have you left your first love?",
+      "speaker": "Curtis Parker",
+      "date": "2024-01-07",
+      "category": "Sermons",
+      "size": "7.88 MB",
+      "duration": "35:10",
+      "description": "An examination of personal faith and spiritual self-examination to rekindle genuine devotion."
+    },
+    {
+      "title": "I did not mean to say that",
+      "speaker": "Grady Stanford",
+      "date": "2023-12-31",
+      "category": "Sermons",
+      "size": "7.32 MB",
+      "duration": "34:20",
+      "description": "Scriptural guidance from James 3 on the power of the tongue and speaking with grace and wisdom."
+    },
+    {
+      "title": "Jesus the light of the world",
+      "speaker": "Curtis Parker",
+      "date": "2023-12-24",
+      "category": "Sermons",
+      "size": "6.32 MB",
+      "duration": "31:45",
+      "description": "Celebrating the hope and salvation brought by Christ shining in a darkened world."
+    },
+    {
+      "title": "My Ebenezer",
+      "speaker": "Curtis Parker",
+      "date": "2023-12-17",
+      "category": "Sermons",
+      "size": "5.45 MB",
+      "duration": "28:50",
+      "description": "Remembering God's faithfulness, help, and deliverance through life's trials (1 Samuel 7:12)."
+    },
+    {
+      "title": "Away from the Manger",
+      "speaker": "Curtis Parker",
+      "date": "2023-12-17",
+      "category": "Sermons",
+      "size": "8.21 MB",
+      "duration": "36:12",
+      "description": "Moving beyond the birth of Jesus to His ministry, sacrificial cross, and triumphant resurrection."
+    },
+    {
+      "title": "Conflict",
+      "speaker": "Tim Pinkston",
+      "date": "2023-12-10",
+      "category": "Sermons",
+      "size": "11.28 MB",
+      "duration": "44:05",
+      "description": "Biblical principles for navigating disagreements, peacemaking, and preserving unity in the spirit."
+    },
+    {
+      "title": "Test every Spirit",
+      "speaker": "Tim Pinkston",
+      "date": "2023-12-10",
+      "category": "Sermons",
+      "size": "8.28 MB",
+      "duration": "37:20",
+      "description": "An essential warning from 1 John 4:1 to measure every doctrine against the inspired scriptures."
+    },
+    {
+      "title": "New Testament Worship Concepts (Parts 1-3)",
+      "speaker": "Curtis Parker",
+      "date": "2016-02-14",
+      "category": "Bible Study",
+      "size": "PDF Series",
+      "duration": "Study Notes",
+      "description": "A comprehensive 3-part textual study on the patterns, spirit, and biblical authority of New Testament worship."
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Gospel Meeting: 'Christ and Him Crucified'",
+      "date": "October 11th - 14th",
+      "theme": "1 Corinthians 2:1-2",
+      "badge": "Special Event",
+      "content": "On Sunday, October 11th, we will begin our Gospel Meeting. Following Sunday morning worship services, we will have a congregational fellowship meal. From Monday through Wednesday, October 12th-14th, we will gather each evening at 7:00 PM for biblical lessons. Please make plans to attend and invite friends and neighbors!"
+    },
+    {
+      "id": 2,
+      "title": "Ladies Luncheon & Bible Class",
+      "date": "October 3rd",
+      "time": "10:00 AM",
+      "badge": "Fellowship",
+      "content": "We will gather at 10:00 AM for our monthly Ladies Luncheon, followed at 11:00 AM by our Bible study working through Chapter 1 of Aubrey Johnson's book 'Love More Sin Less.' Please bring your books and join us for wonderful fellowship and study."
+    },
+    {
+      "id": 3,
+      "title": "Annual Vacation Bible School (VBS)",
+      "date": "July 22 - 24",
+      "time": "6:30 PM - 8:00 PM nightly",
+      "badge": "Youth & Family",
+      "content": "Our annual Vacation Bible School provides Bible lessons, crafts, songs, and refreshments for children of all ages. All community youth and families are welcome!"
+    },
+    {
+      "id": 4,
+      "title": "Fall Fellowship Gathering",
+      "date": "Seasonal Event",
+      "badge": "Community",
+      "content": "Congregational outdoor fellowship, devotional singing, and shared meal hosted at the Mauldins. A treasured annual tradition celebrating Christian unity and gratitude."
+    }
+  ],
+  "communityGuestbook": [
+    {
+      "name": "Mandy",
+      "message": "Neato! You really do have everything on here! Too cool. Thanks for all your hard work for the Lord's church.",
+      "date": "Guestbook entry"
+    },
+    {
+      "name": "Donna Roberson",
+      "message": "Looking good! Thankful for this congregation and all the work done to share the gospel in Albemarle.",
+      "date": "Guestbook entry"
+    },
+    {
+      "name": "Visiting Family",
+      "message": "What a warm, loving group of Christians. We felt so welcome when visiting during our road trip through North Carolina.",
+      "date": "Guestbook entry"
+    }
+  ]
+}
